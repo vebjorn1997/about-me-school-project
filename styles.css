@@ -1,0 +1,6 @@
+table, th, td { border: 1px solid black;}
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+td, th { width: 100px; text-align: left; }
