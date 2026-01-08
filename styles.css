@@ -1,6 +1,11 @@
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
 table, th, td { border: 1px solid black;}
 
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 td, th { width: 100px; text-align: left; }
+
+.table-self-grade th, table { border: none; width: auto; }
+.table-self-grade td { border: none; text-align: right; width: auto; }
